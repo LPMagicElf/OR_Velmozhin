@@ -1,2 +1,7 @@
 lab7 
 -commit1
+<<<<<<< HEAD
+-commit2
+-commmi3
+=======
+>>>>>>> parent of 5cad648 (lab6-commit2)
